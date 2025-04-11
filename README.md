@@ -1,5 +1,5 @@
 # datastruct-code
-CCNU 数据结构实验 彭老师
+CCNU 数据结构实验 
 
 #### 第二章 线性表
  * 顺序表
